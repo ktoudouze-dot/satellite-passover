@@ -1,0 +1,7 @@
+cd C:\Users\ken.toudouze\satellite-planner
+git init
+git add .
+git commit -m "Initial satellite planner"
+git branch -M main
+git remote add origin https://github.com/ktoudouze-dot/satellite-planner.git
+git push -u origin main
